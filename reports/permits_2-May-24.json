@@ -1,0 +1,62 @@
+[
+  {
+    "PermitNumber": "2006042312",
+    "PermitStatus": "COED",
+    "Type": "R040,RES ADDITION ALUM NON-HABITABLE",
+    "Owner": "DAVIS REESE JR TR",
+    "ParcelNumber": "4500 NW BLITCHTON  RD 167, OCALA FL    ",
+    "DBA": "OSWALD ENTERPRISES INC",
+    "JobDescription": "CARPORT WITH CONCRETE, UTILITY ROOM WITH ELEC & SCREEN ROOM ON WOOD DECK",
+    "ApplyDate": "4/28/2006",
+    "IssueDate": "5/1/2006",
+    "CODate": "11/15/2013",
+    "ExpirationDate": "1/3/2007 3:50:14 PM",
+    "LastInspectionRequest": "7/7/2006",
+    "LastInspectionResult": "7/7/2006"
+  },
+  {
+    "PermitNumber": "2018051974",
+    "PermitStatus": "COED",
+    "Type": "R-SFR,RES SINGLE FAMILY-SQ FT",
+    "Owner": "LYON JOHN M",
+    "ParcelNumber": "1960 NW 79TH  LOOP , OCALA FL    ",
+    "DBA": "TRIPLE CROWN HOMES INC",
+    "JobDescription": "NEW SFR",
+    "ApplyDate": "5/25/2018",
+    "IssueDate": "6/12/2018",
+    "CODate": "10/25/2018",
+    "ExpirationDate": "4/22/2019",
+    "LastInspectionRequest": "10/24/2018",
+    "LastInspectionResult": "10/24/2018"
+  },
+  {
+    "PermitNumber": "2022021820",
+    "PermitStatus": "CANCEL",
+    "Type": "R18NEW,R18 1-2 FAMILY NEW RESIDENTIAL CONSTRUCTION ",
+    "Owner": "GONZALEZ MATOS ANA CELINA ",
+    "ParcelNumber": "13195 SW 77TH  AVE , OCALA FL    ",
+    "DBA": "GENESIS CONSTRUCTION & RENOVATION COMPANY",
+    "JobDescription": "NEW SINGLE FAMILY HOME",
+    "ApplyDate": "2/15/2022",
+    "IssueDate": "",
+    "CODate": "",
+    "ExpirationDate": "8/14/2022",
+    "LastInspectionRequest": "",
+    "LastInspectionResult": ""
+  },
+  {
+    "PermitNumber": "2019041085",
+    "PermitStatus": "COED",
+    "Type": "M18GAS,M18 GAS-NATURAL OR PROPANE(RES)",
+    "Owner": "SLOAN SHERRY L ",
+    "ParcelNumber": "15127 SW 38TH  CIR , OCALA FL    ",
+    "DBA": "AMERIGAS PROPANE",
+    "JobDescription": "INSTALL 420# LP VERTICAL TANKA AND PIPE TO EXISTING STUB OUT",
+    "ApplyDate": "4/12/2019",
+    "IssueDate": "4/12/2019",
+    "CODate": "7/22/2019",
+    "ExpirationDate": "1/6/2020",
+    "LastInspectionRequest": "7/10/2019",
+    "LastInspectionResult": "7/10/2019"
+  }
+]

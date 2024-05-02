@@ -1,0 +1,73 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+*.tar.gz
+*.whl
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environment
+venv/
+env/
+.env/
+ENV/
+
+# Development environment
+*.swp
+*.swo
+*.bak
+*.pydevproject
+*.project
+.venv/
+.vscode/
+.idea/
+
+# IDE files
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools/
+.eclipse/
+pycharm/
+.vs/
+
+# Testing
+.tox/
+.coverage
+.cache/
+.pytest_cache/
+
+# Documentation
+docs/_build/
+docs/api/
+
+# Compiled Python modules
+*.pyc
+*.pyo
+*.pyd
+
+# Miscellaneous
+*.bak
+*.tmp
+*.log
+*.csv
+*.xlsx
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment-specific
+env.ini
+.env
+.env.*
+.envrc
